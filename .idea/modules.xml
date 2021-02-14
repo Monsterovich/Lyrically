@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lyrically.iml" filepath="$PROJECT_DIR$/Lyrically.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/Lyrically-app.iml" filepath="$PROJECT_DIR$/app/Lyrically-app.iml" group="Lyrically/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects-Lyrically.iml" filepath="$PROJECT_DIR$/projects-Lyrically.iml" group="Lyrically" />
     </modules>
   </component>
 </project>
